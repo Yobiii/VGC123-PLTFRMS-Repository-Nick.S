@@ -265,7 +265,7 @@ TextureImporter:
     second: Sprite_Enemies_86
   - first:
       213: -7185912387340643949
-    second: Sprite_Enemies_87
+    second: MarioProjectile
   - first:
       213: -5709072872950518472
     second: Sprite_Enemies_88
@@ -1348,7 +1348,7 @@ TextureImporter:
     second: Sprite_Enemies_447
   - first:
       213: -5350994292414872927
-    second: Sprite_Enemies_448
+    second: EnemyProjectile
   - first:
       213: 4126432185448784596
     second: Sprite_Enemies_449
@@ -4015,15 +4015,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_Enemies_87
+      name: MarioProjectile
       rect:
         serializedVersion: 2
         x: 79
         y: 557
         width: 8
         height: 8
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -11596,7 +11596,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_Enemies_448
+      name: EnemyProjectile
       rect:
         serializedVersion: 2
         x: 556
